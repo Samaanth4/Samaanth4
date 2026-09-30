@@ -12,7 +12,7 @@
     </a>
 
   ## Sobre mim👩🏽
-- Profissional em constante evolução, apaixonada por tecnologia, dados e automação. Utilizo SQL, Python e BI para transformar dados em soluções, resolver problemas e gerar valor através do aprendizado contínuo e da melhoria constante.❤️
+- Profissional em constante evolução, apaixonada por tecnologia, desenvolvimento e automação. Com foco em qualidade e desempenho no desenvolvimento de software.❤️
 
 ### 🤖 Linguagens e Tecnologias
 <img 
