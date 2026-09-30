@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Samantha Almeida
 
-- 🎓Estudante de Analise e Desenvolvimento de sistemas & Ciência de Dados
-- 📈Analista de Dados
+- 🎓Estudante de Analise e Desenvolvimento de sistemas - ADS
+- Quality Assurance - QA
 - 📍São Paulo - SP
 - <p align="left">
     <a
